@@ -3,7 +3,6 @@
 Welcome to the repository for the Gym Website Frontend! This repository showcases a fully functional frontend website for a gym, complete with modern design, responsiveness, and interactive features. If you're looking for a talented and motivated frontend developer, you're in the right place!
 
 ## Table of Contents
-
 - [Introduction](#introduction)
 - [Features](#features)
 - [Preview](#preview)
